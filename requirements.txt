@@ -1,0 +1,11 @@
+# Python 3.11 (64-bit) is recommended on Windows.
+fastapi>=0.115,<1
+uvicorn[standard]>=0.34,<1
+python-multipart>=0.0.20
+google-genai>=1.0
+imageio-ffmpeg>=0.6
+numpy>=1.26,<2.0
+scipy>=1.11,<2.0
+soundfile>=0.12
+faster-whisper>=1.1,<2
+myanmartts>=1.0.2
